@@ -12,7 +12,7 @@ Results:
     New Zealand
     Scotland
 ```
-https://i.gyazo.com/c99bb0b0b340ed0749eb6f298daa080e.png
+![alt text]https://i.gyazo.com/c99bb0b0b340ed0749eb6f298daa080e.png
 
 
 
