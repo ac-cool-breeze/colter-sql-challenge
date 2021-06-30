@@ -1,4 +1,4 @@
-##CHALLENGE 1:## All of the vacation destinations. (I went back, I think you wanted just the names.)
+##CHALLENGE 1: All of the vacation destinations. (I went back, I think you wanted just the names.)
 Query: SELECT name FROM destinations;
 Results: 
 ```
