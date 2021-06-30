@@ -1,6 +1,7 @@
-CHALLENGE 1: All of the vacation destinations. (I went back, I think you wanted just the names.)
+##CHALLENGE 1:## All of the vacation destinations. (I went back, I think you wanted just the names.)
 Query: SELECT name FROM destinations;
 Results: 
+```
         name
     ------------------
     Thailand
@@ -8,7 +9,7 @@ Results:
     The Bahamas
     New Zealand
     Scotland
-
+```
 https://i.gyazo.com/c99bb0b0b340ed0749eb6f298daa080e.png
 
 
@@ -16,6 +17,7 @@ https://i.gyazo.com/c99bb0b0b340ed0749eb6f298daa080e.png
 CHALLENGE 2: All destinations where you can swim at the beach.
 Query: SELECT * FROM destinations WHERE has_beaches = true;
 Results:
+
     id |       name       | average_temp | has_beaches | has_mountains | cost_of_flight
     ----+------------------+--------------+-------------+---------------+----------------
     1 | Thailand         |           82 | t           | t             |            765
