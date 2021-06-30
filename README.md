@@ -1,5 +1,7 @@
 **CHALLENGE 1:** All of the vacation destinations. (I went back, I think you wanted just the names.)
+
 Query: ```SELECT name FROM destinations;```
+
 Results: 
 ```
         name
@@ -25,8 +27,6 @@ Results:
     5 | Tristan da Cunha |           59 | t           | t             |           1304
 ```
 https://i.gyazo.com/c3715bc3ee68e236484db163b3805a3d.png
-
-
 
 CHALLENGE 3: All destinations where the average temperature is over 60 degrees.
 Query: ```SELECT * FROM destinations WHERE average_temp > 60;```
@@ -179,7 +179,8 @@ https://i.gyazo.com/3bbba5131ce30d44a068d2c4fb743a7b.png
 
 
 
-CHALLENGE 12: All airlines that do NOT fly to Scotland.
+CHALLENGE 12: All airlines that do NOT fly to Scotland. ☢️☢️☢️
+
 Query: 
 ```
     SELECT airlines.name FROM airlines WHERE airlines.id IN (SELECT DISTINCT airlines_id FROM airlines_destinations WHERE airlines_id NOT IN (SELECT airlines_id FROM airlines_destinations WHERE destinations_id =(SELECT destinations.id FROM destinations WHERE destinations.name = 'Scotland')));```
@@ -194,7 +195,9 @@ https://i.gyazo.com/a680d7c7d566d684d5c97c0ab7737450.png
 
 
 CHALLENGE 13: All of the data for all vacation destinations.
+
 Query: ```SELECT name, average_temp, has_beaches, has_mountains, cost_of_flight FROM destinations;```
+
 Results:
 ```
         name       | average_temp | has_beaches | has_mountains | cost_of_flight
