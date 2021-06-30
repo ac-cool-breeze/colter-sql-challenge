@@ -28,7 +28,7 @@ Results:
     3 | New Zealand      |           66 | t           | t             |            433
     5 | Tristan da Cunha |           59 | t           | t             |           1304
 ```
-https://i.gyazo.com/c3715bc3ee68e236484db163b3805a3d.png
+![](https://i.gyazo.com/c3715bc3ee68e236484db163b3805a3d.png)
 
 ## CHALLENGE 3: All destinations where the average temperature is over 60 degrees.
 
