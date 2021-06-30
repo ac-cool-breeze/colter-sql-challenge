@@ -22,7 +22,7 @@ Results:
     3 | New Zealand      |           66 | t           | t             |            433
     5 | Tristan da Cunha |           59 | t           | t             |           1304
 
-    (https://i.gyazo.com/c3715bc3ee68e236484db163b3805a3d.png)
+https://i.gyazo.com/c3715bc3ee68e236484db163b3805a3d.png
 
 
 
@@ -34,7 +34,7 @@ Results:
     1 | Thailand    |           82 | t           | t             |            765
     3 | New Zealand |           66 | t           | t             |            433
 
-    (https://i.gyazo.com/c917828d1f48de8ca021e0ab809313da.png)
+https://i.gyazo.com/c917828d1f48de8ca021e0ab809313da.png
 
 
 
@@ -47,7 +47,7 @@ Results:
     3 | New Zealand      |           66 | t           | t             |            433
     5 | Tristan da Cunha |           59 | t           | t             |           1304
 
-    (https://i.gyazo.com/fe4a2a194646ba63b214146d0c3665e6.png)
+https://i.gyazo.com/fe4a2a194646ba63b214146d0c3665e6.png
 
 
 
@@ -58,7 +58,7 @@ Results:
     ----+-------------+--------------+-------------+---------------+----------------
     3 | New Zealand |           66 | t           | t             |            433
 
-    (https://i.gyazo.com/6aae9dedc642bb32e8eb1c8384188ef9.png)
+https://i.gyazo.com/6aae9dedc642bb32e8eb1c8384188ef9.png
 
 
 
@@ -77,7 +77,7 @@ Results:
     6 | The Bahamas      |           78 | t           | f             |            345
 
 
-    (https://i.gyazo.com/1a42380f10ea95bed3690b7550be6004.png)
+https://i.gyazo.com/1a42380f10ea95bed3690b7550be6004.png
 
 
 
@@ -95,7 +95,7 @@ Results:
     6 | The Bahamas      |           78 | t           | f             |            345
     3 | New Zealand      |           66 | t           | t             |           1000
 
-    (https://i.gyazo.com/efd52359a0d2181e5b98925fd5a73bed.png)
+https://i.gyazo.com/efd52359a0d2181e5b98925fd5a73bed.png
 
 
 
@@ -112,7 +112,7 @@ Results:
     6 | The Bahamas      |           78 | t           | f             |            345
     3 | New Zealand      |           66 | t           | t             |           1000
 
-    (https://i.gyazo.com/5d83c3496c1d818c695f714fe54f0f31.png)
+https://i.gyazo.com/5d83c3496c1d818c695f714fe54f0f31.png
 
 
 
@@ -129,7 +129,7 @@ Results:
     3 | New Zealand      |           66 | t           | t             |           1000
     4 | Scotland         |           45 | f           | f             |            290
 
-    (https://i.gyazo.com/c5760c483570b97f4f12428cc3d3efd3.png)
+https://i.gyazo.com/c5760c483570b97f4f12428cc3d3efd3.png
 
 
 
@@ -160,8 +160,7 @@ Results:
     8 |           4 |               3
     9 |           4 |               5
 
-    Testing SubQuery INSERT: (https://i.gyazo.com/b409942225aa540912ed2d0b600dcf99.png)
-    Rest of the INSERTs: (https://i.gyazo.com/4baf3703974c3595f041fa0992859f53.png)
+https://i.gyazo.com/4baf3703974c3595f041fa0992859f53.png
 
 
 
@@ -174,7 +173,7 @@ Results:
     Southwest
     (2 rows)
 
-    (https://i.gyazo.com/3bbba5131ce30d44a068d2c4fb743a7b.png)
+https://i.gyazo.com/3bbba5131ce30d44a068d2c4fb743a7b.png
 
 
 
@@ -188,7 +187,7 @@ Results:
     -----------
     Southwest
 
-    (https://i.gyazo.com/a680d7c7d566d684d5c97c0ab7737450.png)
+https://i.gyazo.com/a680d7c7d566d684d5c97c0ab7737450.png
 
 
 
@@ -203,4 +202,4 @@ Results:
     New Zealand      |           66 | t           | t             |           1000
     Scotland         |           45 | f           | f             |            290
 
-    (https://i.gyazo.com/636f7bc47b905a24b27587481409e323.png)
+https://i.gyazo.com/636f7bc47b905a24b27587481409e323.png
